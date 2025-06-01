@@ -1,0 +1,27 @@
+body {
+    margin:15px ;
+    background-color: rgb(249, 255, 73);
+    background-image: url("o\ kaka.jpg");
+    background-size: cover;
+}
+
+#header{ 
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(255, 0, 0);
+    color: gold;
+    width: 25%;
+}
+#article{
+    background-color: rgb(140, 2, 2);
+    color: rgb(171, 146, 3);
+    width: 65%;
+}
+#footer{
+    background-color: rgb(29, 1, 1);
+    color: rgb(235, 201, 3);
+    width:70%;
+}
+#okak{
+    width: 60%;
+}
